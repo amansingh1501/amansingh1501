@@ -72,15 +72,6 @@
 - Software jobs workflows: [amanksingh.co.in/software-jobs](https://amanksingh.co.in/software-jobs)
 - Resume: [amanksingh.co.in/resume](https://amanksingh.co.in/resume)
 
-### GitHub Snapshot
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amansingh1501&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Aman's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh1501&layout=compact&hide_border=true&theme=github_dark" alt="Aman's top languages" />
-</p>
-
----
-
 <p align="center">
   Open to product engineering, admin platforms, SaaS systems, and practical full-stack delivery.
 </p>
