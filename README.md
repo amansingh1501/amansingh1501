@@ -7,11 +7,11 @@
 <h1 align="center">Hi, I'm Aman Kumar Singh</h1>
 
 <p align="center">
-  Team Lead and full-stack software engineer building SaaS products, admin systems, and microservice-backed web platforms.
+  Team Lead focused on system design, full-stack architecture, admin systems, and microservice-backed SaaS platforms.
 </p>
 
 <p align="center">
-  <a href="https://github.com/amansingh1501">
+  <a href="https://github.com/amansingh1501/">
     <img src="https://komarev.com/ghpvc/?username=amansingh1501&style=flat-square&color=2563eb" alt="Profile views" />
   </a>
   <a href="https://amanksingh.co.in">
@@ -26,19 +26,23 @@
   <a href="https://www.linkedin.com/in/amansingh1597/">
     <img src="https://img.shields.io/badge/LinkedIn-amansingh1597-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/amansingh1501?tab=followers">
+  <a href="https://github.com/amansingh1501/?tab=followers">
     <img src="https://img.shields.io/github/followers/amansingh1501?label=Followers&style=flat-square&color=111827" alt="GitHub followers" />
   </a>
+</p>
+
+<p align="center">
+  <img src="./assets/system-architecture.svg" width="760" alt="Animated system architecture overview for Aman Kumar Singh" />
 </p>
 
 ---
 
 ### What I Work On
 
-- Admin portals with role-based workflows, reporting, settings, and audit-friendly operations.
-- SaaS dashboards with practical UX, reliable APIs, and clear delivery ownership.
-- Hiring and software jobs workflows for candidates, recruiters, managers, and admins.
-- Financial and insurance platforms where validation, performance, and data integrity matter.
+- System design for admin portals, SaaS dashboards, and workflow-heavy web platforms.
+- Service boundaries, API contracts, RBAC, audit trails, reporting, and operational settings.
+- Hiring and software jobs platforms for candidates, recruiters, managers, and admins.
+- Finance and insurance systems where validation, performance, and data integrity matter.
 
 ### Tech I Use
 
@@ -59,7 +63,7 @@
 ### Current Focus
 
 - Leading engineering delivery at JellyFish Technologies.
-- Building full-stack products with clear frontend, API, database, and infrastructure contracts.
+- Building full-stack products with clear frontend, API, database, and infrastructure boundaries.
 - Improving portfolio visibility through case studies, structured SEO pages, and practical engineering writing.
 
 ### Featured Links
@@ -73,5 +77,5 @@
 - Resume: [amanksingh.co.in/resume](https://amanksingh.co.in/resume)
 
 <p align="center">
-  Open to product engineering, admin platforms, SaaS systems, and practical full-stack delivery.
+  Open to system design, product architecture, admin platforms, SaaS systems, and practical full-stack delivery.
 </p>
