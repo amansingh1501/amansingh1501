@@ -44,4 +44,7 @@ I build admin portals, SaaS dashboards, software jobs workflows, and microservic
 ### Contact
 
 - Email: [aman97aman@gmail.com](mailto:aman97aman@gmail.com)
+- Alternate: [aman978aman@gmail.com](mailto:aman978aman@gmail.com)
+- Vowerole: [aman@vowerole.com](mailto:aman@vowerole.com)
+- Tech: [aman.tech1501@gmail.com](mailto:aman.tech1501@gmail.com)
 - LinkedIn: [linkedin.com/in/amansingh1597](https://www.linkedin.com/in/amansingh1597/)
