@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://amanksingh.co.in">
-    <img src="https://amanksingh.co.in/brand/aks-logo-128.png" width="86" height="86" alt="Aman Kumar Singh logo" />
-  </a>
-</p>
+
 
 <h1 align="center">Hi, I'm Aman Kumar Singh</h1>
 
