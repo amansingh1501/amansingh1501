@@ -14,14 +14,8 @@
   <a href="https://github.com/amansingh1501/">
     <img src="https://komarev.com/ghpvc/?username=amansingh1501&style=flat-square&color=2563eb" alt="Profile views" />
   </a>
-  <a href="https://amanksingh.co.in">
-    <img src="https://img.shields.io/badge/Portfolio-amanksingh.co.in-0f172a?style=flat-square" alt="Portfolio" />
-  </a>
   <a href="https://amanksingh.com">
     <img src="https://img.shields.io/badge/Website-amanksingh.com-1d4ed8?style=flat-square" alt="Website" />
-  </a>
-  <a href="https://amanksingh.in">
-    <img src="https://img.shields.io/badge/Website-amanksingh.in-047857?style=flat-square" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/amansingh1597/">
     <img src="https://img.shields.io/badge/LinkedIn-amansingh1597-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -68,13 +62,11 @@
 
 ### Featured Links
 
-- Portfolio: [amanksingh.co.in](https://amanksingh.co.in)
-- Website: [amanksingh.com](https://amanksingh.com)
-- Website: [amanksingh.in](https://amanksingh.in)
-- Software engineer page: [amanksingh.co.in/software-engineer](https://amanksingh.co.in/software-engineer)
-- Admin portal work: [amanksingh.co.in/admin-portals](https://amanksingh.co.in/admin-portals)
-- Software jobs workflows: [amanksingh.co.in/software-jobs](https://amanksingh.co.in/software-jobs)
-- Resume: [amanksingh.co.in/resume](https://amanksingh.co.in/resume)
+- [Portfolio](https://amanksingh.com)
+- [Blog](https://amanksingh.com/blog) 
+- [Topics](https://amanksingh.com/blog/topics)
+- [Tools](https://amanksingh.com/tools)
+- [LinkedIn](https://linkedin.com/in/amansingh1597)
 
 <p align="center">
   Open to system design, product architecture, admin platforms, SaaS systems, and practical full-stack delivery.
